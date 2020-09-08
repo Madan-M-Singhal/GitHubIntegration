@@ -1,8 +1,6 @@
 
 
-HI I AM IN LOCAL.
-=======
-I AM IN MASTER........
+HI I AM IN LOCAL branch.
 
  
 
