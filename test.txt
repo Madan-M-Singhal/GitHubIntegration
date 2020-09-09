@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-Added Code In Local Branch commit.
-=======
-
-Hi Saurabh How are you !!
-
-Hello all.
-
-
-
-khana khaya
-
-pol scm.
-
-Update Code.
-
-
-Commit in local branch.
->>>>>>> 8a5a3949c97d1f4d37c642d3f1b6aecbf0d57090
+HI
 
 
